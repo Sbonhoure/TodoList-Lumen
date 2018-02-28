@@ -8,6 +8,7 @@ sudo apt-get install -y nodejs
 
 INSTALL OF ELECTRON
 
+npm install electron -g
 npm install electron --save-dev --save-exact
 
 git clone https://github.com/electron/electron-quick-start
